@@ -1,15 +1,16 @@
-![Icon](src/main/resources/icon.png?raw=true "Icon")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/src/main/resources/icon.png?raw=true "Icon")
 
 Simple minecraft computer-craft add-on for handling minecarts.
 The mod includes a detector block for computers and a new peripheral for turtles.
+This mod is made for [Better Minecarts](https://www.curseforge.com/minecraft/mc-mods/xannoszs-better-minecarts) but can be used without it.
 
 ## minecart detector
 
-![Icon](pictures/detector.png?raw=true "Minecart Detector")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/pictures/detector.png?raw=true "Minecart Detector")
 
 #### usage:
 
-![Icon](pictures/detector_in_place.png?raw=true "Minecart Detector Usage")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/pictures/detector_in_place.png?raw=true "Minecart Detector Usage")
 
 Place the minecart detector under any type of rail.
 The detector will see all minecarts and rails within its detection range (default 25 blocks, configurable). The detector range works across the rails,
@@ -19,7 +20,7 @@ Example code: [railGui.lua](https://pastebin.com/zrh2UtXQ)
 
 #### crafting:
 
-![Icon](pictures/detector_craft.png?raw=true "Minecart Detector Crafting")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/pictures/detector_craft.png?raw=true "Minecart Detector Crafting")
 
 #### LUA api:
 
@@ -48,11 +49,11 @@ Example code: [railGui.lua](https://pastebin.com/zrh2UtXQ)
 
 ## minecart loader
 
-![Icon](pictures/loader_turtle.png?raw=true "Minecart Loader")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/pictures/loader_turtle.png?raw=true "Minecart Loader")
 
 #### usage:
 
-![Icon](pictures/turtle_in_place.png?raw=true "Minecart Loader Usage")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/pictures/turtle_in_place.png?raw=true "Minecart Loader Usage")
 
 A turtle can control a minecart if it is directly in front of the turtle. If the minecart has inventory, the turtle can directly access the minecart's inventory.
 It can place a minecart on the track or pick it up.
@@ -61,7 +62,7 @@ Example code: [minecartCli.lua](https://pastebin.com/tmTShRFj)
 
 #### crafting:
 
-![Icon](pictures/loader_craft.png?raw=true "Minecart Loader Crafting")
+![Icon](https://github.com/Xannosz/MinecartPeripherals/blob/master/pictures/loader_craft.png?raw=true "Minecart Loader Crafting")
 
 #### LUA api:
 
