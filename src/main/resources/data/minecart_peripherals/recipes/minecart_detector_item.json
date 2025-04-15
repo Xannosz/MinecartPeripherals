@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "I I",
+    "SCS"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "computercraft:cable"
+    }
+  },
+  "result": {
+    "item": "minecart_peripherals:minecart_detector_item"
+  }
+}

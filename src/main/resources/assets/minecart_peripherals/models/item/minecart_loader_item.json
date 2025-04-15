@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecart_peripherals:item/minecart_loader_item"
+  }
+}

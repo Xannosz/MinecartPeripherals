@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecart_peripherals:block/minecart_detector"
+    }
+  }
+}
